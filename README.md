@@ -5,8 +5,8 @@
 T8 Silver Bullets
 - Patrick Alfieri | @hyspxt | patrick.alfieri@studio.unibo.it | Product Owner
 - Davide Luccioli | @sgrunf | davide.luccioli@studio.unibo.it | Scrum Master S0/S1/S3/S4 | Backend Developer
-- Kaori Jiang | @Kmoon7 | kaori.jiang@studio.unibo.it | Frontend Developer
-- Sofia Zanelli | @Sofy_zan | sofia.zanelli3@studio.unibo.it | Frontend Developer
+- Kaori Jiang | @Kmoon-7 | kaori.jiang@studio.unibo.it | Frontend Developer
+- Sofia Zanelli | @SofZll | sofia.zanelli3@studio.unibo.it | Frontend Developer
 - Giulia Torsani | @giulia-t | giulia.torsani@studio.unibo.it | Scrum Master S2 | Backend-db Developer
 
 ## Description
